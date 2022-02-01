@@ -16,6 +16,10 @@ private void empName() {
 		System.out.println("Employee mobile : 444");
 	}
 	
+	private void two() {
+		System.out.println("test two smith");
+	}
+	
 	public static void main(String[] args) {
 		
 		TestGit ed = new TestGit();
